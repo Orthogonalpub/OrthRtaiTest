@@ -1,6 +1,6 @@
-TARGET = periodic_task  
+TARGET = app_demo
 
-SRCS = periodic_task.c 
+SRCS = app_demo.c 
 
 prefix := $(shell rtai-config --prefix)
 

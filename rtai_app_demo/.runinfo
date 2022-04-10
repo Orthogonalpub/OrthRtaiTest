@@ -1,0 +1,1 @@
+app_demo:lxrt+sem+mbx+msg+fifos:!./app_demo;popall:control_c

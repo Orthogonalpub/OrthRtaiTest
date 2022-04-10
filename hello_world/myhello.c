@@ -11,9 +11,6 @@
 #include "linux/module.h"
 #include "linux/kernel.h"
 
-//#include <linux/cons.h>
-//#include "linux/init.h"
-
 
 static int module_number = 0;
 module_param(module_number, int, S_IRUGO);
